@@ -1,10 +1,10 @@
 [На страницу с документацией](doc_main.md)
 # Архитектура решения
 ## Модули проекта
-![[images/project_modules.png]]
+![project_modules.png](images/project_modules.png)
 ## Архитектура модулей клиента
-![[images/client_modules.png]]
+![client_modules.png](images/client_modules.png)
 ## Диаграмма классов модуля клиента
-![[images/client_classes.png]]
+![client_classes.png](images/client_classes.png)
 ## Диаграмма классов модуля сервера
-![[images/backend_classes.png]]
+![client_classes.png](images/backend_classes.png)
